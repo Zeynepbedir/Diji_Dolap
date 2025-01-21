@@ -5,3 +5,4 @@ Kombin önerisi için kullanıcıların kıyafetleri ile mevsime uygun farklı k
 Bu uygulama, kullanıcıların kıyafetleri ile kişiselleştirilmiş kombin önerileri sunarak gardıroplarını daha etkili ve verimli bir şekilde kullanmalarına olanak tanır. 
 
 ## **Uygulamanın son görünümü**
+![Image](https://github.com/user-attachments/assets/3dd1f995-59d1-4221-8ba8-2ffe48cdc7f3)
