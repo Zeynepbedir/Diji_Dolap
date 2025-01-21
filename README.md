@@ -6,3 +6,4 @@ Bu uygulama, kullanıcıların kıyafetleri ile kişiselleştirilmiş kombin ön
 
 ## **Uygulamanın son görünümü**
 ![Image](https://github.com/user-attachments/assets/3dd1f995-59d1-4221-8ba8-2ffe48cdc7f3)
+![Image](https://github.com/user-attachments/assets/24f0cab0-e24f-47ed-96f4-d852a8afdf08)
