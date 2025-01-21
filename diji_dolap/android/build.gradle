@@ -1,0 +1,30 @@
+buildscript {
+    repositories {
+        google()  // Google reposunu ekliyoruz
+        mavenCentral()
+    }
+    dependencies {
+        // Firebase Google Services plugin'ini ekliyoruz
+        classpath 'com.google.gms:google-services:4.4.2'
+        // Firebase BoM'yi ekliyoruz
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.9.1'  // Eğer crash analytics kullanıyorsanız
+    }
+}
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = "../build"
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(":app")
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

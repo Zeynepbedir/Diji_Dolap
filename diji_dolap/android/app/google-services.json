@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "394250099168",
+    "firebase_url": "https://deneme4-a9dec-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "deneme4-a9dec",
+    "storage_bucket": "deneme4-a9dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394250099168:android:4901b3879f5c253cb83385",
+        "android_client_info": {
+          "package_name": "com.example.diji_dolap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394250099168-4jo822bockg4c3m62l17tcjmget6rcb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMDujgvSkCTyh2jq1AIYTqiZK2cN2Xkt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394250099168-4jo822bockg4c3m62l17tcjmget6rcb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394250099168:android:f852f2b082e713f3b83385",
+        "android_client_info": {
+          "package_name": "com.zeynepbedir.cbookapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394250099168-4jo822bockg4c3m62l17tcjmget6rcb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMDujgvSkCTyh2jq1AIYTqiZK2cN2Xkt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394250099168-4jo822bockg4c3m62l17tcjmget6rcb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394250099168:android:ab9d70b87a12aeadb83385",
+        "android_client_info": {
+          "package_name": "com.zeynepbedir.changeapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394250099168-4jo822bockg4c3m62l17tcjmget6rcb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMDujgvSkCTyh2jq1AIYTqiZK2cN2Xkt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394250099168-4jo822bockg4c3m62l17tcjmget6rcb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
