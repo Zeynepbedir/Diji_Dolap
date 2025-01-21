@@ -3,3 +3,5 @@ Bu uygulama, kullanıcıların kişisel gardıroplarında bulunan kıyafetlerin 
 Kullanıcıların uygulamaya kıyafetin görselini yükledikten sonra yapay zeka ile kıyafetin sınıflandırılması yapılır ve özellikleri belirlenir. 
 Kombin önerisi için kullanıcıların kıyafetleri ile mevsime uygun farklı kombinler oluşuturulup kaydedilebilir. 
 Bu uygulama, kullanıcıların kıyafetleri ile kişiselleştirilmiş kombin önerileri sunarak gardıroplarını daha etkili ve verimli bir şekilde kullanmalarına olanak tanır. 
+
+## **Uygulamanın son görünümü**
