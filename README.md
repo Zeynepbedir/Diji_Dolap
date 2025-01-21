@@ -6,5 +6,5 @@ Bu uygulama, kullanıcıların kıyafetleri ile kişiselleştirilmiş kombin ön
 
 ## **Uygulamanın son görünümü**
 
-<img src="https://github.com/user-attachments/assets/3dd1f995-59d1-4221-8ba8-2ffe48cdc7f3" width="320" height="180">
+<img src="https://github.com/user-attachments/assets/3dd1f995-59d1-4221-8ba8-2ffe48cdc7f3" width="320" height="550">
 
